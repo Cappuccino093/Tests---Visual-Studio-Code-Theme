@@ -1,1 +1,1 @@
-throw new Error("My Error");
+console.log("My console log.");
