@@ -1,1 +1,1 @@
-throw new Error("My Error");
+console.warning("My console warning");
